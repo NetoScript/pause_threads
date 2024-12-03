@@ -18,7 +18,4 @@ Debuggers.
 Análise de processos em tempo real.
 Situações onde você precisa pausar algo antes de interagir. 
 
-<video width="320" height="240" controls>
-  <source src="https://cdn.discordapp.com/attachments/564780006337675264/1313304653764628550/2024-12-02_21-39-13.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+[Veja o vídeo demonstrativo](https://cdn.discordapp.com/attachments/564780006337675264/1313304653764628550/2024-12-02_21-39-13.mp4)
