@@ -1,6 +1,6 @@
 # 💻 Programinha simples para suspender Threads! 💻
 
-Fiz um pequeno programa que ajuda a suspender as threads de um processo específico no Windows. Ele é bem prático para quem precisa pausar um processo para debugging ou análises.
+Fiz um pequeno programa que ajuda a suspender as threads de um processo de 32/64 bits  específico no Windows. Ele é bem prático para quem precisa pausar um processo para debugging ou análises.
 
 ⚙️ Como funciona:
 Ao executar o programa, ele pedirá:
