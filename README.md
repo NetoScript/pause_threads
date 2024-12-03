@@ -18,4 +18,3 @@ Debuggers.
 Análise de processos em tempo real.
 Situações onde você precisa pausar algo antes de interagir. 
 
-[Veja o vídeo demonstrativo](https://cdn.discordapp.com/attachments/564780006337675264/1313304653764628550/2024-12-02_21-39-13.mp4?ex=674fa5c5&is=674e5445&hm=3b658251133190661f69e8fd1cdc48c19b27d49607ca8f0b9aaef0b7b8f8d8e7&)
